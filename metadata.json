@@ -1,0 +1,8 @@
+{
+  "name": "Zion Connect - Gestão & Agendamentos",
+  "description": "Zion Connect: Plataforma SaaS multi-tenant para barbearias com controle de acesso, perfis de barbeiros e agendamento online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
